@@ -1,0 +1,79 @@
+.navbar{
+    top:0;
+    position:fixed;
+    background-color:white;
+    padding:0.25em;
+    list-style-type: none;
+    margin:-8px;
+    width: 100%;
+    height: 8%;
+
+}
+.logo1{
+    position: absolute;
+    top:25px;
+    width: 80px;
+}
+body{
+    background-color: #47a1ff;
+}
+
+.container{
+	background-color:white;
+    width: 800px;
+    height:490px;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    margin: -100px 0 0 -175px;
+}
+.btn-task{
+    position:absolute;
+     top: 20px;
+     width: 90px;
+     height: 30px;
+     left:10px;
+     border-radius: 10%;
+     border: 0 solid black;
+     background-color: #47a1ff;
+     font-size:10px;
+     color:white;
+     text-align: center;
+}
+.btn-section{
+    position:absolute;
+     top: 20px;
+     width: 90px;
+     height: 30px;
+     left:110px;
+     border-radius: 10%;
+     border: 1px solid #47a1ff;
+     background-color: white;
+     font-size:10px;
+     color: #47a1ff; ;
+     text-align: center;
+}
+hr{
+    position: absolute;
+    width:100%;
+    top: 100px;
+    color: #47a1ff;
+    size: 10;
+}
+.task{
+    position:absolute;
+    top:100px;
+    left: 5%;
+}
+.NewTask{
+    position:absolute;
+    left:30px;
+    top:110px
+}
+input[type=radius]{
+    position:absolute;
+    top:160px;
+    left: 30px;
+    border-radius: 5%;
+    border: 1px solid green;
+}
