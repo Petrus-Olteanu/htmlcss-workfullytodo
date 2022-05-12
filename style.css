@@ -75,6 +75,9 @@ hr{
     position:absolute;
     top:160px;
     left: 30px;
-    border-radius: 500%;
+    border-radius: 100%;
     border: 1px solid green;
+}
+#check1{
+    color:green;
 }
