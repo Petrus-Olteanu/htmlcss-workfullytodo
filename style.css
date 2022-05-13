@@ -8,6 +8,7 @@
   width: 100%;
   height: 8%;
 }
+/*logo  page*/
 .logo1 {
   position: absolute;
   top: 25px;
@@ -26,6 +27,7 @@ body {
   left: 30%;
   margin: -100px 0 0 -175px;
 }
+/*class of button*/
 .btn-task {
   position: absolute;
   top: 20px;
@@ -52,7 +54,7 @@ body {
   color: #47a1ff;
   text-align: center;
 }
-
+/*class of line*/
 hr{
     width: 100%;
     position: absolute;
@@ -81,12 +83,12 @@ hr{
 .section-element {
   margin: 1em 0;
 }
-
+/*class of checked*/
 .verifica {
   border: 1px solid lightgreen;
   color: lightgreen;
 }
-
+/*class of circle*/
 .cerchio {
   margin-top: 1em;
   display: inline-block;
